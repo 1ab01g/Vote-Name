@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53649861228",
+    "project_id": "baby-names-app-db-ea552",
+    "storage_bucket": "baby-names-app-db-ea552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53649861228:android:ac74505414a19240f58649",
+        "android_client_info": {
+          "package_name": "com.example.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53649861228-67jvnp2h4t6akooq8elbj9ntdmblosg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj21HJ1AD0JbbR4vC9VEbpHFWK-zaRKUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53649861228-67jvnp2h4t6akooq8elbj9ntdmblosg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
